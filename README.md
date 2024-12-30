@@ -22,7 +22,7 @@ Dev Detective is a simple web application that allows users to search for any Gi
 
 ## Screenshot
 
-![Dev Detective Screenshot](SS1.png)
+![Dev Detective Screenshot](./images/SS1.png)
 
 
 
